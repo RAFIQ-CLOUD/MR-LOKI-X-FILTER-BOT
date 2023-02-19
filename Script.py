@@ -11,10 +11,10 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/Stark_Hd_Movies')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/Team_idiots')
     START_TXT = environ.get("START_TXT", '''<b>ʜᴇʏ... {} 
 
-ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/StarkHdMovie_bot><b>𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫</b></a>
+ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/Emilia_Clarke_Filterbot><b>𝐄𝐦𝐢𝐥𝐢𝐚 - 𝐓𝐈 𝐀𝐮𝐭𝐨 𝐅𝐢𝐥𝐭𝐞𝐫</b></a>
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʟᴏᴛ ᴍᴏʀᴇ... ᴅᴏɴ'ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ ʙʏ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀᴅᴅ & ᴇɴᴊᴏʏ ᴍᴇʜ ᴘᴏᴡᴇʀ
 
@@ -24,16 +24,16 @@ class script(object):
     ABOUT_TXT = """<b>
 ╭────[ About Meh ]────⍟
 │
-├⍟ Meh Name : <a href=https://t.me/StarkHdMovie_bot><b>𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫</b></a>
-├⍟ Owner : <a href=https://t.me/SheikX_TG><b>𝐒𝐡𝐞𝐢𝐤 𝐗</b></a>
+├⍟ Meh Name : <a href=https://t.me/Emilia_Clarke_Filterbot><b>𝐄𝐦𝐢𝐥𝐢𝐚 - 𝐓𝐈 𝐀𝐮𝐭𝐨 𝐅𝐢𝐥𝐭𝐞𝐫</b></a>
+├⍟ Owner : <a href=https://t.me/Tamil2018><b>𝐋𝐎𝐊𝐈</b></a>
 ├⍟ Version : MR 2.2 [ Stable ]
 ├⍟ Server : VPS
 ├⍟ Language : Python 3.10.5
 ├⍟ Framework : Pyrogram 1.4.16
 ├⍟ Developer : <a href=https://t.me/MR_X_MIRROR><b>𝐌𝐑 𝐗 𝐌𝐈𝐑𝐑𝐎𝐑</b></a>
-├⍟ Powered By  : <a href=https://t.me/Stark_Hd_Movies><b>𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞𝐬</b></a>
+├⍟ Powered By  : <a href=https://t.me/Team_idiots><b>𝐓𝐞𝐚𝐦 𝐈𝐝𝐢𝐨𝐭𝐬</b></a>
 │
-╰────[ <a href=https://t.me/Stark_Hd_Movies><b>𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞𝐬</b></a> ]────⍟<b>"""
+╰────[ <a href=https://t.me/Team_idiots><b>𝐓𝐞𝐚𝐦 𝐈𝐝𝐢𝐨𝐭𝐬</b></a> ]────⍟<b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @MR_X_MIRROR<b>"""
@@ -61,7 +61,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Stark_Hd_Movies)</code>
+<code>[Button Text](buttonurl:https://t.me/Team_idiots)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -122,11 +122,11 @@ This module only works for my admins
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
-<b>᚛› 𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 </b>
+<b>᚛› 𝐄𝐦𝐢𝐥𝐢𝐚 - 𝐓𝐈 𝐀𝐮𝐭𝐨 𝐅𝐢𝐥𝐭𝐞𝐫 </b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫  
     
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
-<b>᚛› 𝐒𝐭𝐚𝐫𝐤𝐇𝐃𝐌𝐨𝐯𝐢𝐞 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 </b>
+<b>᚛› 𝐄𝐦𝐢𝐥𝐢𝐚 - 𝐓𝐈 𝐀𝐮𝐭𝐨 𝐅𝐢𝐥𝐭𝐞𝐫 </b>
 """
