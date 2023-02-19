@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/StarkHdMoviesX/2')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/HTD_Team_idiots/2')
         ]
     )
 
@@ -434,8 +434,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ Add Me To Your Groups ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ StarkHdMovies ⚡', url='https://t.me/Stark_Hd_Movies'),
-            InlineKeyboardButton('⚡ Request Group ⚡', url=f'https://t.me/+mPx3pZWhDDdmOTk1')
+            InlineKeyboardButton('⚡ Team Idiots ⚡', url='https://t.me/Team_idiots'),
+            InlineKeyboardButton('⚡ Request Group ⚡', url=f'https://t.me/+paiZV_f0j0k3MTNl')
         ], [
             InlineKeyboardButton('❗ Help ❗', callback_data='help'),
             InlineKeyboardButton('📬 About Meh 📬', callback_data='about')
@@ -689,7 +689,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/StarkHdMoviesX/2')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/HTD_Team_idiots/2')
         ]
     )
 
